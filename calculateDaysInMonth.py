@@ -1,3 +1,9 @@
+"""Takes an input of year and month
+
+Returns:
+    int: Amount of days in year, month
+"""
+
 # Determines if the year is a leap year
 def isLeapYear(year):
     """Determines if the year is a leap year
